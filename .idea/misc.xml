@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TOPi/EXEMPLOS_KOTLIN/app/src/main/res/drawable/gradient_home.xml" value="0.2953125" />
+        <entry key="..\:/TOPi/EXEMPLOS_KOTLIN/app/src/main/res/drawable/ic_add.xml" value="0.2953125" />
+        <entry key="..\:/TOPi/EXEMPLOS_KOTLIN/app/src/main/res/drawable/ic_list_client.xml" value="0.2953125" />
+        <entry key="..\:/TOPi/EXEMPLOS_KOTLIN/app/src/main/res/layout/activity_add_client.xml" value="0.2791666666666667" />
+        <entry key="..\:/TOPi/EXEMPLOS_KOTLIN/app/src/main/res/layout/activity_main.xml" value="0.19074074074074074" />
+        <entry key="..\:/TOPi/EXEMPLOS_KOTLIN/app/src/main/res/layout/item_client.xml" value="0.19074074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
